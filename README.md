@@ -1,7 +1,10 @@
 ```markdown
 # PKU-cxsjsx-2025-Spring
 
-北京大学 2025 春 程序设计实习 课程作业  
+北京大学 2025 春 程序设计实习 课程作业
+
+---
+
 Openjudge 作业 & 上机 & 考试答案（部分）  
 题目见：http://cxsjsx.openjudge.cn/ 已结束的比赛
 
@@ -32,6 +35,13 @@ PKU-cxsjsx-2025-Spring/
 │   ├── 2025自由演武场Python
 │   └── 期末考试
 └── README.md
+
+---
+
+## 🔗 友情链接：
+
+CodeWings小组QT大作业 Neural Network Visualization
+https://github.com/yyxuanyao/CodeWings-Neural-Network-Visualization
 
 ---
 
