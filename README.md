@@ -1,10 +1,14 @@
+```markdown
 # PKU-cxsjsx-2025-Spring
-北京大学 2025春 程序设计实习 课程作业
 
-Openjudge作业&上机&考试答案（部分）
-题目见http://cxsjsx.openjudge.cn/ 已结束的比赛
+北京大学 2025 春 程序设计实习 课程作业  
+Openjudge 作业 & 上机 & 考试答案（部分）  
+题目见：http://cxsjsx.openjudge.cn/ 已结束的比赛
 
-Contents:
+---
+
+## 📁 Contents:
+
 PKU-cxsjsx-2025-Spring/
 ├── C++部分/
 │   ├── 01类和对象1
@@ -29,12 +33,16 @@ PKU-cxsjsx-2025-Spring/
 │   └── 期末考试
 └── README.md
 
-待施工：
-部分比赛通道关闭前没做出来的题目
-非傻瓜版本的魔兽世界
-期中考试选择题
-10文件输入输出图像旋转作业
-15Python爬虫作业
-16pandas处理excel表格作业
-往年题
-课程笔记
+---
+
+## 🚧 待施工：
+
+- 部分比赛通道关闭前没做出来的题目  
+- 非傻瓜版本的魔兽世界  
+- 期中考试选择题  
+- 10 文件输入输出图像旋转作业  
+- 15 Python 爬虫作业  
+- 16 pandas 处理 Excel 表格作业  
+- 往年题  
+- 课程笔记
+```
